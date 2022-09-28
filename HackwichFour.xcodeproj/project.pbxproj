@@ -14,6 +14,7 @@
 		CF163DB028E3D8330015CC9B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF163DAF28E3D8330015CC9B /* Assets.xcassets */; };
 		CF163DB328E3D8330015CC9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF163DB128E3D8330015CC9B /* LaunchScreen.storyboard */; };
 		CF163DBB28E3E2B10015CC9B /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF163DBA28E3E2B10015CC9B /* secondViewController.swift */; };
+		CF163DBD28E3E81F0015CC9B /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF163DBC28E3E81F0015CC9B /* thirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CF163DB228E3D8330015CC9B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF163DB428E3D8330015CC9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF163DBA28E3E2B10015CC9B /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
+		CF163DBC28E3E81F0015CC9B /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				CF163DA828E3D8300015CC9B /* SceneDelegate.swift */,
 				CF163DAA28E3D8300015CC9B /* ViewController.swift */,
 				CF163DAC28E3D8300015CC9B /* Main.storyboard */,
+				CF163DBC28E3E81F0015CC9B /* thirdViewController.swift */,
 				CF163DBA28E3E2B10015CC9B /* secondViewController.swift */,
 				CF163DAF28E3D8330015CC9B /* Assets.xcassets */,
 				CF163DB128E3D8330015CC9B /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				CF163DBB28E3E2B10015CC9B /* secondViewController.swift in Sources */,
 				CF163DAB28E3D8300015CC9B /* ViewController.swift in Sources */,
+				CF163DBD28E3E81F0015CC9B /* thirdViewController.swift in Sources */,
 				CF163DA728E3D8300015CC9B /* AppDelegate.swift in Sources */,
 				CF163DA928E3D8300015CC9B /* SceneDelegate.swift in Sources */,
 			);
